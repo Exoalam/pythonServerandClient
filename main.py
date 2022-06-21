@@ -2,6 +2,7 @@ import base64
 import json
 import socket
 from io import BytesIO
+import cv2
 
 import PIL.Image
 
